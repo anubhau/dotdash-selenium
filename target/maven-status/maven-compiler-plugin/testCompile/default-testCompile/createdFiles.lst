@@ -20,7 +20,6 @@ com\dotdash\test\TestDraganddrop.class
 com\dotdash\pags\Draganddrop.class
 com\dotdash\test\TestMousehover.class
 com\dotdash\test\Testuploadfile.class
-com\dotdash\test\TestRunner.class
 com\dotdash\pags\Dynamicontent.class
 com\dotdash\pags\Floatingmenu.class
 com\dotdash\test\Beforeandaftersuite.class

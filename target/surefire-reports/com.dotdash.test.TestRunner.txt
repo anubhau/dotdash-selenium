@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.dotdash.test.TestRunner
--------------------------------------------------------------------------------
-Tests run: 25, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 80.356 s - in com.dotdash.test.TestRunner
